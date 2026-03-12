@@ -1,0 +1,46 @@
+{
+  "Prefabs": [
+    {
+      "PrefabName": "Pjkt Prefabs",
+      "PrefabDescription": "A collection of prefabs for creating interactions in your booth",
+      "ResourceURL": "https://drive.google.com/uc?export=download&id=1jLNlUqWWaKXnD5XIrhtern8EAhIShmmX",
+      "DefaultAssetPath": "Assets/PJKT/Pjkt Prefabs/Open Group UI.prefab"
+    },
+    {
+      "PrefabName": "Fest 2023 Prefab Booth",
+      "PrefabDescription": "A simple booth used in the 2023 Projekt:Fest event",
+      "ResourceURL": "https://drive.google.com/uc?export=download&id=1yyy1wremaftcbKAdFJxKgMCFrbCtezgI",
+      "DefaultAssetPath": "Assets/PJKT/Booth Fest 2023/Booth Prefab.prefab"
+    },
+    {
+      "PrefabName": "Fest 2024 Prefab Booth",
+      "PrefabDescription": "A simple booth used in the 2024 Projekt:Fest event",
+      "ResourceURL": "https://drive.google.com/uc?export=download&id=14qJ2vlw-qMUwd1DCT_KH8eWMI0scpfZW",
+      "DefaultAssetPath": "Assets/PJKT/Booth Fest 2024/Booth Prefab.prefab"
+    },
+    {
+      "PrefabName": "Fest 2025 Prefab Booth",
+      "PrefabDescription": "A simple booth used in the 2025 Projekt:Fest event",
+      "ResourceURL": "https://drive.google.com/uc?export=download&id=1eVvPIY2i9I2IC0TF-m2ngL9AlRzX9Qhp",
+      "DefaultAssetPath": "Assets/PJKT/Booth Fest 2025/PJKT Booth 2025 Prefab.prefab"
+    },
+    {
+      "PrefabName": "HorrorCon 2024 Prefab Booth",
+      "PrefabDescription": "A simple booth used in the 2024 Projekt:HorrorCon event",
+      "ResourceURL": "https://drive.google.com/uc?export=download&id=1_M9zsGGXaSUKiobP-5mPS2G9UZaaDx1m",
+      "DefaultAssetPath": "Assets/PJKT/Booth Horrorcon 2024/HorrorCon 24 Prefab Booth.prefab"
+    },
+    {
+      "PrefabName": "HorrorCon 2025 Prefab Booth",
+      "PrefabDescription": "A simple booth used in the 2025 Projekt:HorrorCon event",
+      "ResourceURL": "https://drive.google.com/uc?export=download&id=1CAaGREKyuz2llN1smlqDENQcrOoa-iqP",
+      "DefaultAssetPath": "Assets/PJKT/Booth Horrorcon 2025/HorrorCon 25 Prefab Booth.prefab"
+    },
+    {
+      "PrefabName": "Fang 2026 Prefab Booth",
+      "PrefabDescription": "A simple booth used in the 2026 Projekt:Fang event",
+      "ResourceURL": "https://drive.google.com/uc?export=download&id=19mkaqxuk5tSqdLAgKz9h6E4kYBqJh9vz",
+      "DefaultAssetPath": "Assets/PJKT/Booth Fang 2026/Prefab Booth.fbx"
+    }
+  ]
+}
